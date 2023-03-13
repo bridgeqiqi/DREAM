@@ -20,17 +20,7 @@ This FUDAN-UCC Dataset is for academic and non-commercial uses (such as academic
 4. All rights not expressly granted to you are reserved by us (FUDAN).
 
 ## Citation
-If you find this repository is useful for your research or you want to make use of the FUDAN-UCC Dataset, please cite:
-```tex
-@misc{gao2022s2fpr,
-      title={S$^2$FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking}, 
-      author={Jiaqi Gao and Zhizhong Huang and Yiming Lei and James Z. Wang and Fei-Yue Wang and Junping Zhang},
-      year={2022},
-      eprint={2201.04819},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+If you find this repository is useful for your research or you want to make use of the FUDAN-UCC Dataset, please cite.
 
 ## Contact
 Feel free to contact jqgao20@fudan.edu.cn if you have any questions.
