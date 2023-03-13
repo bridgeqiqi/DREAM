@@ -1,5 +1,5 @@
 ## Introduction
-This is the official code repository for the paper "S^2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking". **[[Link](https://arxiv.org/pdf/2201.04819.pdf)]**
+This is the official code repository for the paper "Deep Rank-Consistent Pyramid Model for Better Crowd Counting". **[[Link](https://arxiv.org/pdf/2201.04819.pdf)]**
 
 ## News
 - [2022.01.28] The code is available now.
